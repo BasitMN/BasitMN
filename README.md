@@ -1,4 +1,5 @@
 <img width="1209" height="409" alt="image" src="https://github.com/user-attachments/assets/ef853341-7800-4f98-bca3-f8e0fb4aa64e" />
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=BasitBM&theme=cobalt&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=BasitBM&theme=cobalt&hide_border=false)  
@@ -11,7 +12,7 @@
 
 
 
-<!--
+
 **BasitMN/BasitMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
