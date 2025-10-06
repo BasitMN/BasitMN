@@ -1,7 +1,4 @@
-## Hi there 👋
 <img width="1209" height="409" alt="image" src="https://github.com/user-attachments/assets/ef853341-7800-4f98-bca3-f8e0fb4aa64e" />
-
-
 <!--
 **BasitMN/BasitMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
